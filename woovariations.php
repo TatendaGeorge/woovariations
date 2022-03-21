@@ -15,7 +15,7 @@
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            OboxThemes
- * Author URI:        https://oboxthemes.com
+ * Author URI:        https://oboxthemes.co.za
  * Text Domain:       woo-variations
  * License:           GPL v2 or later
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
